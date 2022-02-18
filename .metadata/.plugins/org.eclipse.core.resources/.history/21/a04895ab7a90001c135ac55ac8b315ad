@@ -1,0 +1,14 @@
+/*
+ * @ author trusha.patel@stltech.in
+ * @version 1.0
+ * @date 18-Feb-2022
+ * @copyright Sterlite Technologies Ltd. All rights reserved
+ * @description: Represents Database entity (Table)
+ *          POJO Class/Persistence class in hibernate
+ * */
+package com.sterlite.hibernate.entities;
+
+
+public class Product {
+
+}

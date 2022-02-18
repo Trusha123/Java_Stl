@@ -1,0 +1,10 @@
+package com.sterlite.jdbc.postgres;
+
+public class CallProcedurePostgresDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

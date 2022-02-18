@@ -1,0 +1,10 @@
+package com.sterlite.jdbc.oracle;
+
+public class GetAllProducts {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

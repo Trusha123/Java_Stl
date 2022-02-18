@@ -1,0 +1,25 @@
+package com.sterlite.jdbc.oracle;
+
+import java.sql.Connection;
+import java.sql.Statement;
+
+import com.sterlite.jdbc.connection.DBConnection;
+
+public class AddProduct {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		try(Connection con = DBConnection.getDBConnectivity();)
+		{
+			//get statement from connection
+			Statement stmt = con.createStatement();
+			
+			
+		}
+		catch(Exception e) {
+			
+		}
+	}
+
+}

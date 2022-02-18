@@ -1,0 +1,5 @@
+package com.sterlite.jdbc.connection;
+
+public class DBConnection {
+
+}

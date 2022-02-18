@@ -1,0 +1,22 @@
+
+package com.sterlite.jdbc.postgres;
+
+import java.sql.Connection;
+
+import com.sterlite.jdbc.connection.DBConnection;
+
+public class GetAllProducts {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		try( Connection con = DBConnection.getDBConnectivity();)
+		{
+			//database operations logic 
+		}
+		catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}
